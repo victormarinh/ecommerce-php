@@ -1,2 +1,5 @@
 # Ignora a Pasta das Dependencias
 /vendor/
+
+# Ignora minhas anotações
+/util/notes.txt
